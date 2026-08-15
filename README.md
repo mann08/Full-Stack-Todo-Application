@@ -98,5 +98,16 @@ Extract the files to your desired directory.
 ## Demo Credentials
 Since it uses a database, you can simply **Register** a new account to see your personal dashboard. Each user sees only their own tasks.
 
+## 👨‍💻 Author
+
+***Mann Verma***
+
+Computer Science Engineering Student
+
+Jai Narain College of Technology, Bhopal
+
+MERN Stack Developer
+
+
 ---
 *Built for educational and demonstration purposes.*
