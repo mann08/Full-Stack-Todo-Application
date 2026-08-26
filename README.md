@@ -22,6 +22,7 @@ A modern, responsive, and secure Todo application built using the MERN stack (Mo
 -   **Theme Support**: Full Dark and Light mode support with a toggle.
 -   **Fully Responsive**: Works seamlessly on Mobile, Tablet, and Desktop.
 
+
 ## Tech Stack
 
 -   **Frontend**: React.js, Vite, Bootstrap, React Icons, React Router.
