@@ -2,6 +2,7 @@
 
 A modern, responsive, and secure Todo application built using the MERN stack (MongoDB, Express, React, Node.js). This project is designed as a high-quality demo for college projects or portfolio showcases.
 
+
 ## Features
 
 -   **Premium UI/UX**: Modern SaaS-style design with Glassmorphism, smooth transitions, and vibrant color palettes.
@@ -21,6 +22,7 @@ A modern, responsive, and secure Todo application built using the MERN stack (Mo
 -   **Theme Support**: Full Dark and Light mode support with a toggle.
 -   **Fully Responsive**: Works seamlessly on Mobile, Tablet, and Desktop.
 
+
 ## Tech Stack
 
 -   **Frontend**: React.js, Vite, Bootstrap, React Icons, React Router.
@@ -29,6 +31,7 @@ A modern, responsive, and secure Todo application built using the MERN stack (Mo
 -   **Security**: JWT for Auth, Bcrypt for Hashing, CORS for cross-origin requests.
 
 ## Local Setup Instructions
+
 
 ### Prerequisites
 
