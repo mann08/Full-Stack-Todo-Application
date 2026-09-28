@@ -30,7 +30,7 @@ A modern, responsive, and secure Todo application built using the MERN stack (Mo
 -   **Database**: MongoDB (Atlas or Local).
 -   **Security**: JWT for Auth, Bcrypt for Hashing, CORS for cross-origin requests.
 
-## Local Setup Instructions
+# Local Setup Instructions
 
 
 ### Prerequisites
