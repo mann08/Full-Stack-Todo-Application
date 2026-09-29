@@ -93,7 +93,7 @@ Extract the files to your desired directory.
 **Option B: One-Command Start (If configured)**
 -   Navigate to the root directory and run `npm start` (if a root package.json exists).
 
-## Folder Structure
+# Folder Structure
 
 -   `/backend`: Node/Express API with Mongoose models and Auth controllers.
 -   `/frontend`: React/Vite application with modular components and SaaS styling.
