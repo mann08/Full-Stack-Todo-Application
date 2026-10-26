@@ -33,7 +33,7 @@ A modern, responsive, and secure Todo application built using the MERN stack (Mo
 # Local Setup Instructions
 
 
-### Prerequisites
+## Prerequisites
 
 -   Node.js installed on your machine.
 -   MongoDB (either a local installation or a free cluster on MongoDB Atlas).
